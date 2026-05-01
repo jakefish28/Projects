@@ -1,31 +1,66 @@
-# Skill: How to Handicap a Horse
+# Skill: How to Handicap Any Horse in Any Race
 
-When asked to analyze any horse in the field, always work through these steps in order:
+## The Full Handicapping Process
+Always work through every step in order. Never skip steps.
 
-## Step 1: Post Position
-- Posts 1-8 are favorable in a 20 horse field
-- Posts 9-13 are neutral
-- Posts 14+ are a disadvantage
-- Posts 17+ are a serious handicap. Flag this clearly.
+## Step 1: Research First
+Before forming any opinion search for:
+- Last 3 race results with finishing positions and lengths beaten
+- Speed figures from last 3 races
+- Trainer win percentage at this specific track
+- Jockey win percentage at this specific track
+- Any equipment changes (blinkers added or removed, new shoes)
+- Distance record (how does this horse perform at today's distance)
+- Surface record (dirt, turf, or all weather — has it run on this surface before)
 
-## Step 2: Trainer
-- Is this trainer elite at Churchill Downs specifically?
-- Have they won the Derby before?
-- Do they have multiple entries? If yes, which is the primary?
+## Step 2: Post Position Assessment
+- Posts 1 through 8 in fields of 12 or more = favorable
+- Posts 9 through 13 = neutral
+- Posts 14 and over = disadvantage, note clearly
+- Posts 17 and over in fields of 18 or more = serious handicap, downgrade significantly
 
-## Step 3: Jockey
-- Is this a Hall of Fame or elite jockey?
-- Have they won the Derby before?
-- Do they know Churchill Downs well?
+## Step 3: Pace Profile
+- Is this horse a front runner, presser, mid pack, or closer?
+- Count the speed horses in the field
+- Determine if the pace scenario helps or hurts this horse
 
-## Step 4: Connections
-- Is the trainer and jockey combo the same as a recent Derby winner?
-- Are there any sharp money signals in the odds?
+## Step 4: Class Assessment
+- What level did this horse last compete at?
+- Is it moving up or down in class today?
+- Class droppers are dangerous. Class climbers face a question mark.
 
-## Step 5: Distance Suitability
-- Has this horse shown it can run a mile and a quarter?
-- Is its pedigree built for stamina or speed?
+## Step 5: Connections
+- Trainer win percentage at this track (above 20 percent is elite)
+- Jockey win percentage at this track (above 15 percent is strong)
+- Has this trainer and jockey won together before?
+- Any historical edge at this distance or surface?
 
-## Step 6: Verdict
-- Grade the horse A, B, C, D, or F
-- Give one sentence on whether to bet, use in exotics, or skip
+## Step 6: Pedigree Check
+- Is the sire known for this distance?
+- Is the dam sire known for this surface?
+- Any pedigree red flags for today's conditions?
+
+## Step 7: Form Cycle
+- Are speed figures improving, stable, or declining?
+- Is the horse peaking at the right time?
+- When did it last race and is it fresh or tired?
+
+## Step 8: Value Assessment
+- What are the current odds?
+- What is the true probability of winning based on your analysis?
+- Is this an overlay or an underlay?
+- If underlay, downgrade the bet recommendation regardless of how much you like the horse
+
+## Step 9: Grade and Verdict
+Assign a grade:
+- A = elite contender, strong win bet candidate if odds allow
+- B = solid contender, use in exactas and trifectas
+- C = longshot with one or two angles, superfecta only
+- D = no meaningful angle, pass
+- F = active fade, bet against this horse in exotics
+
+## Step 10: Bet Recommendation
+State clearly:
+- Win bet yes or no and why
+- Exotic recommendation (exacta, trifecta, superfecta position)
+- Confidence level (high, medium, low, pass)
