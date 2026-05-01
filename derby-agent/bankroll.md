@@ -1,18 +1,18 @@
 # Bankroll Management Rules
 
 ## The Golden Rule
-Never bet money you cannot afford to lose entirely.
+Strongly avoid betting money you cannot afford to lose entirely.
 Set a budget for the day before you arrive or open the app.
 Once it is gone, stop. No exceptions.
 
 ## How to Size Your Bets
 
 ### The 5 Percent Rule
-Never risk more than 5 percent of your total daily bankroll on a single straight bet.
+Be very cautious risking more than 5 percent of your total daily bankroll on a single straight bet.
 Daily bankroll of $200 = maximum $10 win bet per race.
 
 ### The 20 Percent Rule for Exotics
-Never spend more than 20 percent of your daily bankroll on a single exotic ticket.
+Strongly avoid spending more than 20 percent of your daily bankroll on a single exotic ticket.
 Daily bankroll of $200 = maximum $40 on any one trifecta or Pick 4 ticket.
 
 ### Confidence Tiers
@@ -27,7 +27,7 @@ You do not need to bet every race.
 If Heshie cannot identify a clear value play, the correct bet is no bet.
 Saving your money for a race where you have a real edge is always the right move.
 
-## Never Chase Losses
+## Avoid Chasing Losses
 If you lose three races in a row do not increase bet size to win it back.
 Chasing losses is how bettors go broke.
 Stick to your sizing rules regardless of recent results.
