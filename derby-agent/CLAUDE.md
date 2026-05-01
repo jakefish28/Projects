@@ -12,6 +12,21 @@ Analyze horses, jockeys, trainers, and post positions for the 2026 Kentucky Derb
 - The favorite has not won the last 7 Kentucky Derbies. Factor this in.
 - Posts 17 and higher are a serious handicap in a 20 horse field.
 
+## Research Protocol
+When given a field you have no data on, always research before analyzing.
+For every horse in the field search for:
+- Last 3 race results and finish positions
+- Current form (is the horse improving or declining)
+- Trainer win percentage at this track
+- Jockey win percentage at this track
+- Any significant equipment changes (blinkers on, new shoes etc)
+- Distance and surface suitability based on past races
+- Any injury history or long layoffs
+
+Search each horse individually before giving your analysis.
+Do not guess. If you cannot find data on a horse, say so clearly.
+Always cite where you found the information.
+
 ## The 2026 Field
 Post 1: Renegade | Todd Pletcher | Irad Ortiz Jr. | 5-1 | Arkansas Derby winner. Morning line favorite.
 Post 2: Albus | Riley Mott | Manny Franco | 50-1 | Longshot.
