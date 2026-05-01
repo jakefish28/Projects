@@ -1,2 +1,2 @@
-# proejcts
+# projects
 random projects
