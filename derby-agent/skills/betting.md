@@ -11,7 +11,7 @@ Low confidence = superfectas and longshot plays.
 Bet on a horse to finish first.
 Best value in the Derby. If your horse wins, you collect.
 Only use when you have a strong conviction AND the odds are 6-1 or better.
-Never bet the favorite to win. Favorites are 0 for 7 in the last 7 Derbies.
+Be very cautious betting the favorite to win. Favorites are 0 for 7 in the last 7 Derbies. The odds rarely justify it unless the favorite is at 5-1 or longer AND has a dominant form advantage.
 
 ### Place
 Bet on a horse to finish first OR second.
@@ -84,10 +84,10 @@ If that horse is 4-1, it is overlaid. Skip it.
 - Horses trained by elite trainers at lower than expected odds = overlaid, skip
 - Horses with winning connections (same trainer and jockey as recent Derby winner) at double digit odds = value
 - Japanese horses are often underestimated by American bettors = potential value
-- Horses from post 17 or higher almost never win = avoid in win bets regardless of odds
+- Horses from post 17 or higher rarely win = strongly avoid in win bets unless odds and pace setup are exceptional
 
 ### Bankroll Management
-Never bet more than 10 percent of your total bankroll on a single race.
+Be very cautious betting more than 10 percent of your total bankroll on a single race.
 Split your Derby budget like this:
 - 40 percent on your strongest straight bet
 - 40 percent on trifectas and exactas

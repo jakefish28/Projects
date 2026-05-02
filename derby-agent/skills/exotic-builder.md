@@ -6,6 +6,13 @@ A $2 win bet on a 10-1 shot returns $22.
 A $1 trifecta with that same horse on top can return hundreds or thousands.
 The goal is to structure tickets that are cheap to play but cover enough combinations to cash.
 
+## The Live Longshot Rule (Lesson from 2025 Derby)
+If your analysis flags a horse as a "live longshot" or notes a real angle on them — even a C-tier horse — include them in your exotic spreads. Especially in the 2nd, 3rd, and 4th positions of trifectas and superfectas.
+
+In the 2025 Kentucky Derby, Heshie tagged Citizen Bull (#10) as a live longshot in the analysis ("McPeek won this race in 2024 with Mystik Dan") but left him off every exotic ticket. Citizen Bull finished 2nd. Including him in the 2nd-place slot would have hit the trifecta and likely the superfecta for thousands.
+
+The lesson: longshots hit the board far more often than they win. If you've already done the work to identify a live one, use them in the spread — that is where the value lives. Do not let "narrative tidiness" push live horses off the ticket.
+
 ## Exacta Construction
 
 ### Basic Exacta
