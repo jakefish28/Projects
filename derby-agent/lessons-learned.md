@@ -57,3 +57,31 @@ A running log of lessons from each race Heshie analyzes. Each lesson is tied to 
 **Source:** 2025 Breeders' Cup Classic (Fierceness won despite a known Derby flop on his record)
 **The miss:** Heshie used Fierceness's Derby flop as a primary reason to downgrade him, even though his class (HOF connections, multiple stakes wins, BC Juvenile winner) was intact and he was at a fair small-field price.
 **The rule:** A single bad race in an otherwise strong form cycle is a yellow flag, not a red one. To downgrade a horse from a contender, the fade reason must be **structural** — surface change without pedigree, layoff over 180 days with cold trainer, declining speed figures across three or more consecutive races, distance question with negative pedigree, post-position disqualifier — not narrative ("I don't trust him" / "he flopped once"). Form cycles bend. Class does not.
+
+---
+
+## Lesson 8 — Pedigree Can Override Post Position When Pace Scenario Aligns
+**Source:** 2026 Kentucky Derby (Golden Tempo won from Post 19 at 40-1)
+**The miss:** Heshie correctly identified Golden Tempo's pedigree ("Curlin x Bernardini is a stamina pedigree built for this distance") and then overrode that read entirely based on Post 19. Golden Tempo won the race. The Curlin x Bernardini stamina combination in a fast-pace scenario was the decisive factor — the horse closed from the clouds exactly as the pedigree suggested.
+**The rule:** Post position is a strong tendency, not an absolute disqualifier. When a horse has (1) a specific stamina pedigree that fits the distance, (2) a closing style that benefits from a fast pace, AND (3) multiple speed horses in the field likely to create that fast pace — the post position penalty must be reduced significantly. A closing-style, stamina-bred horse is less hurt by an outside post than a speed horse. Do not let post position kill a horse whose pedigree and pace scenario are both pointing toward a big run.
+
+---
+
+## Lesson 9 — If a Horse Is in the Trifecta, They Belong in the Exacta
+**Source:** 2026 Kentucky Derby (Golden Tempo won, Renegade 2nd — exacta 19-1 paid a fortune)
+**The miss:** Heshie included Golden Tempo in the trifecta box but not the exacta box. Golden Tempo won and Renegade ran 2nd. The exacta was the biggest single payout of the race and it was not covered.
+**The rule:** If a horse makes the trifecta box, they must also be in the exacta box. The logic is simple — if you believe a horse can finish in the top 3, they can finish in the top 2. Leaving a horse in the trifecta but out of the exacta is an internal contradiction. The only exception is a horse you are specifically including as a 3rd-place-only longshot with no realistic path to 2nd — and that is rare. Default rule: trifecta inclusion = exacta inclusion.
+
+---
+
+## Lesson 10 — Always Use a Superfecta in the Kentucky Derby
+**Source:** 2026 Kentucky Derby (Ocelli 99-1 ran 3rd, Post 22, added Thursday)
+**The miss:** The app did not allow a superfecta bet and Heshie accepted that without pushing for an alternative. Ocelli — graded F, added Thursday, Post 22, 99-1 — finished 3rd. The superfecta 19-1-22-? would have paid life-changing money.
+**The rule:** The Kentucky Derby superfecta is non-negotiable. Use a different platform, a different app, or a physical ticket at the track if necessary — but always have a $0.10 superfecta in the Kentucky Derby. The field size, the chaos, and the historical frequency of extreme longshots hitting the board make the superfecta the highest expected-value bet on the card. A $12 superfecta box (5 horses at $0.10) covering your top 3 plus 2 extreme longshots is mandatory. Never skip it.
+
+---
+
+## Lesson 11 — When Experts Pick a Horse You Respect But Fade on Structure, Put Them in the Exacta
+**Source:** 2026 Kentucky Derby (TwinSpires expert picked Golden Tempo at 40-1, Heshie disagreed on win but respected the pedigree)
+**The miss:** Heshie acknowledged Golden Tempo's pedigree was "real" and noted the expert backing, then faded the horse for the win AND left him out of the exacta. The expert was right. The pedigree was right. Heshie was right about the angle and wrong about the bet structure.
+**The rule:** When an expert pick and your own pedigree/pace read both point toward a horse — even if you disagree on the win — that horse must be in the exacta box. Expert backing plus your own identified angle is a double confirmation. That is exactly when the exacta provides value: you are not betting the horse to win, you are betting that the angle is real enough to get them into the top two. At 40-1 the exacta payout justifies the coverage many times over.
